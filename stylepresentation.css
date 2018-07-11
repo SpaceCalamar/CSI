@@ -1,0 +1,54 @@
+body {
+  background-image: url('https://i.pinimg.com/736x/46/0e/82/460e82c431942f48c8d0da4262c354c2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+a {
+	text-decoration: none;
+}
+header {
+	display: flex;
+	background-image: url('https://media.moddb.com/cache/images/groups/1/5/4497/thumb_620x2000/TF-DCS-ST.jpg');
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-right: 50px;
+}
+h1 {
+	color: red;
+	padding: 100px;
+}
+.grosvide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+}
+.haut {
+	display: flex;
+	height: 300px;
+	justify-content: center;
+	margin-top: 0px;
+}
+h2 {
+	background-color: #a78544;
+	margin-left: 5px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+h3 {
+	background-color: #a78544;
+}
+.bas {
+	display: flex;
+	height: 300px;
+	justify-content: center;
+}
+h4 {
+	background-color: #a78544;
+	margin-right: 5px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}

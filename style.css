@@ -1,0 +1,93 @@
+body {
+  background-image: url('https://i.pinimg.com/736x/46/0e/82/460e82c431942f48c8d0da4262c354c2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+header {
+  background-image: url('https://vignette.wikia.nocookie.net/starwars/images/4/46/DroidArmy.png/revision/latest/scale-to-width-down/1024?cb=20130121215008');
+  background-size: cover;
+  background-position: center;
+  font-family: "Encode Sans", sans-serif;
+  padding: 50px 50px;
+  font-size: 18px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-family: "Encode Sans", sans-serif;
+  font-size: 32px;
+  color: white;
+}
+
+.grosvide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+}
+
+.presentation {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+}
+
+h2 {
+  background-color: #1b165c;
+  text-align: center;
+  color:white;
+  padding: 10px 150px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  font-size: 24px;
+}
+h3 {
+  text-align: center;
+  background-color: #a78544;
+  padding: 50px 150px;
+  margin-top: 0px;
+}
+.vide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 10vh;
+}
+.planetes {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+}
+
+h4 {
+  background-color: #1b165c;
+  text-align: center;
+  color:white;
+  padding: 10px 150px;
+  margin-top: 90px;
+  margin-bottom: 0px;
+  font-size: 24px
+}
+li {
+  text-align: center;
+  background-color: #a78544;
+  padding: 5px 150px;
+  margin-top: 0px;
+}
+.mili {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+}
+.poli {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+}
