@@ -25,11 +25,7 @@ h1 {
 }
 
 .grosvide {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 20vh;
+  height: 200px;
 }
 
 .presentation {
@@ -43,7 +39,6 @@ h2 {
   text-align: center;
   color:white;
   padding: 10px 150px;
-  margin-top: 50px;
   margin-bottom: 0px;
   font-size: 24px;
 }
@@ -54,11 +49,7 @@ h3 {
   margin-top: 0px;
 }
 .vide {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 10vh;
+  height: 100px;
 }
 .planetes {
   display: flex;
@@ -70,9 +61,8 @@ h4 {
   background-color: #1b165c;
   text-align: center;
   color:white;
-  padding: 10px 150px;
-  margin-top: 90px;
   margin-bottom: 0px;
+  padding: 10px 150px;
   font-size: 24px
 }
 li {
@@ -89,5 +79,15 @@ li {
 .poli {
   display: flex;
   height: 300px;
+  justify-content: center;
+}
+
+img {
+  max-height: 300px;
+  max-width: 300px;
+}
+.texte {
+  display: flex;
+  flex-direction: column;
   justify-content: center;
 }
