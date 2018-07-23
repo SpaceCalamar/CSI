@@ -16,40 +16,25 @@ header {
 	margin-right: 50px;
 }
 h1 {
-	color: red;
+	color: white;
 	padding: 100px;
 }
 .grosvide {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
   height: 20vh;
 }
-.haut {
+.vide {
+  height: 10vh;
+}
+.lien {
 	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
 
-	justify-content: center;
-	align-items: center;
-	margin-top: 0px;
-}
 h2 {
-	background-color: #a78544;
-	margin-left: 5px;
-	margin-bottom: 0px;
-	margin-top: 0px;
-}
-h3 {
-	background-color: #a78544;
-}
-.bas {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-h4 {
-	background-color: #a78544;
-	margin-right: 5px;
-	margin-top: 0px;
-	margin-bottom: 0px;
+	background-color: #1b165c;
+	color: white;
+	font-size: 24px;
 }
