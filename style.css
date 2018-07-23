@@ -7,8 +7,8 @@ body {
 
 header {
   background-image: url('https://vignette.wikia.nocookie.net/starwars/images/4/46/DroidArmy.png/revision/latest/scale-to-width-down/1024?cb=20130121215008');
-  background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   font-family: "Encode Sans", sans-serif;
   padding: 50px 50px;
   font-size: 18px;

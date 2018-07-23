@@ -11,6 +11,7 @@ header {
 	display: flex;
 	background-image: url('https://escapegameparis.imgix.net/wp-content/uploads/2017/11/galaxie.jpg?auto=format%2Ccompress');
 	background-position: center;
+	background-repeat: no-repeat;
 	justify-content: center;
 	align-items: center;
 	text-align: center;
