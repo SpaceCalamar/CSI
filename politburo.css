@@ -1,0 +1,80 @@
+body {
+  background-image: url('https://i.pinimg.com/736x/46/0e/82/460e82c431942f48c8d0da4262c354c2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+a {
+	text-decoration: none;
+}
+header {
+	display: flex;
+	background-image: url('https://vignette.wikia.nocookie.net/starwars/images/6/6c/SeparatistSenate-HOBS.png/revision/latest?cb=20130518043828');
+	background-position: center;
+	background-repeat: no-repeat;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-right: 50px;
+}
+.grosvide {
+	height: 20vh;
+}
+.planetes {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+.haut {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 0px;
+}
+h2 {
+	color: white;
+	padding: 100px;
+}
+h1 {
+	background-color: #1b165c;
+	color: white;
+}
+h3 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #1b165c;
+	color: white;
+	padding: 5px;
+}
+h4 {
+  text-align: center;
+  background-color: #a78544;
+  padding: 5px;
+}
+.raxus {
+	margin-right: 20px;
+}
+.geo {
+	margin-right: 20px;
+}
+.cato {
+	margin-right: 10px;
+}
+.dac {
+	margin-left: 10px;
+}
+.balmorra {
+	margin-left: 20px;
+}
+.quarren {
+	margin-left: 20px;
+}
+.bas {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
